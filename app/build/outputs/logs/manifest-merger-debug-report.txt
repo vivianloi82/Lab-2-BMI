@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51d09b9124bf836a2bb8bc8171bbd61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9ef5aa0d28d257a907d57c49ff5c59b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3259b1ef7c998554f4c477b92abb2c54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec1e87cc3d05185be7dc307754c5a8bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c18d22ad713f4ee25115181e09dde911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\befc2b033b16d954afc3daa0947e7d73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49a596f189f7c5b216dd714a2b5b67cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc911a734df9695299b7e04b29fc35b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\befcd9fb938702ab25a68a52af797bc5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18afb29a36bf47283d77905ed25d3320\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c00eeca7251258f6e44616208642a7e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.taruc.lab2bmi.MainActivity
+ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.taruc.lab2bmi.SecondActivity
+ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51d09b9124bf836a2bb8bc8171bbd61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51d09b9124bf836a2bb8bc8171bbd61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9ef5aa0d28d257a907d57c49ff5c59b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9ef5aa0d28d257a907d57c49ff5c59b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3259b1ef7c998554f4c477b92abb2c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3259b1ef7c998554f4c477b92abb2c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec1e87cc3d05185be7dc307754c5a8bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec1e87cc3d05185be7dc307754c5a8bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c18d22ad713f4ee25115181e09dde911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c18d22ad713f4ee25115181e09dde911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\befc2b033b16d954afc3daa0947e7d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\befc2b033b16d954afc3daa0947e7d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49a596f189f7c5b216dd714a2b5b67cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49a596f189f7c5b216dd714a2b5b67cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc911a734df9695299b7e04b29fc35b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dc911a734df9695299b7e04b29fc35b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\befcd9fb938702ab25a68a52af797bc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\befcd9fb938702ab25a68a52af797bc5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18afb29a36bf47283d77905ed25d3320\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\18afb29a36bf47283d77905ed25d3320\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c00eeca7251258f6e44616208642a7e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c00eeca7251258f6e44616208642a7e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\AndroidStudioProjects\Lab-2-BMI\app\src\main\AndroidManifest.xml
